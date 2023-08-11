@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "cypress": "^12.17.3"
+  },
+  "devDependencies": {
+    "prettier": "3.0.1"
   }
 }
